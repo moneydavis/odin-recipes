@@ -1,1 +1,2 @@
 # odin-recipes
+This project is to ensure that I have learned everything going into detail about the HTML and CSS. I have demonstrated that I have learned how to fill out a boilerplate, write headings, create directories, create files, create links that are able to pull up new windows and items, create images, and make lists. 
